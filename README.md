@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/blog-preview-card-FaHfJ7U-39)
 - Live Site URL: (https://blog-preview-card-eye0001.netlify.app/)
 
 ## My process
