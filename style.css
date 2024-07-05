@@ -103,7 +103,7 @@ body {
 
 .name {
     font-weight: var(--extra-bold);
-    font-size: 0.9375rem;
+    font-size: 0.875rem;
 }
 
 .card-text h1:hover {
